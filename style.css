@@ -51,3 +51,14 @@ form .calc-screen input {
 form input.calc {
     width: 139px;
 }
+
+.my-initial {
+    text-align: center;
+    margin-top: 10px;
+    color: rgb(16, 53, 71);
+    
+}
+
+form input.operator {
+    color: rgb(240, 201,134);
+}
